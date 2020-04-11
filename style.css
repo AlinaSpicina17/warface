@@ -1,0 +1,267 @@
+body {
+    background: black;
+}
+.shapka {
+    margin: 1 auto;
+    width: 1880px;
+    height: 300px;
+    background-image: url(img/shapka.jpg);
+}
+.shapka_dop {
+    margin-top: -8px;
+}
+.text_header {
+    margin-left: 24%;
+    color: white;
+}
+.mycart {
+    color: white;
+}
+.code {
+    margin-left: 1%;
+    color: white;
+}
+.support {
+    margin-left: 1%;
+    color: white;
+}
+#main-menu {
+    margin-top: 203px;
+    float: left;
+    margin-left: 440px;
+}
+#main-menu ul {
+    overflow: hidden;
+    padding: 0;
+    margin-bottom: 0;
+}
+#main-menu ul li{
+    float: left;
+    color: white;
+    list-style: none;
+    background: #000000;
+    padding: 24px 32px 21px 22px;
+}
+#main-menu ul li:hover {
+    background: #FFFFFF;
+    color: #000000;
+}
+.preview {
+    background-image: url(1.jpg);
+    width: 1000px;
+    height: 450px;
+    margin: 0 auto;
+}
+.block_news1 {
+    width: 1000px;
+    height: 350px;
+    background: #252525;
+    margin: 1 auto;
+}
+.block_news2 {
+    width: 1000px;
+    height: 350px;
+    background: #252525;
+    margin: 1 auto;
+}
+.block_news3 {
+    width: 1000px;
+    height: 350px;
+    background: #252525;
+    margin: 1 auto;
+}
+.block_news4 {
+    width: 1000px;
+    height: 350px;
+    background: #252525;
+    margin: 1 auto;
+}
+.block_news_dop {
+    margin-top: 20px;
+}
+.news_img {
+float: left;
+height: 350px;
+width: 500px;
+}
+.news_title {
+    text-align: center;
+    background: #252525;
+    float: right;
+    width: 500px;
+    height: 50px;
+}
+.news_title p {
+    margin-top: 15px;
+    font-size: 20px;
+    margin-left: 15px;
+    text-align: left;
+}
+.news_title p a {
+    color: #af1800;
+    text-decoration: none;
+}
+.news_title p a:visited {
+    text-align: left;
+    color: #af1800;
+    text-decoration: none;
+}
+.news_title p a:hover {
+    text-decoration: underline;
+}
+.news_text {
+    background: #252525;
+    float: right;
+    height: 300px;
+    width: 500px;
+}
+.bot {
+    width: 1000px;
+    height: 68px;
+    background: #212121;
+    margin: 0 auto;
+}
+.bot_dop {
+    margin-top: 20px;
+}
+.main-menu_img{
+    position: absolute;
+    margin-left: 452px;
+    margin-top: 70px;
+}
+.news_text p {
+    margin-left: 15px;
+    color: #969696;
+    font-size: 20px;
+}
+.links {
+    position: relative;
+    margin: 0 auto;
+    height: 68px;
+    width: 317px;
+}
+.vk_link {
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    height: 64px;
+    width: 64px;
+}
+.vk_link_dop {
+    margin-left: 13px;
+}
+.vk_link_img {
+    opacity: 0.5;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    height: 32px;
+    width: 50px;
+}
+.vk_link_img:hover {
+    opacity: 1;
+}
+.inst_link {
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    height: 64px;
+    width: 64px;
+}
+.inst_link_dop {
+    margin-left: 79px;
+}
+.inst_link_img {
+    opacity: 0.5;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    height: 42px;
+    width: 42px;
+}
+.inst_link_img:hover {
+    opacity: 1;
+}
+.odnokl_link {
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    height: 64px;
+    width: 64px;
+}
+.odnokl_link_dop {
+    margin-left: 131px;
+}
+.odnokl_link_img {
+    opacity: 0.5;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    height: 42px;
+    width: 24px;
+}
+.odnokl_link_img:hover {
+    opacity: 1;
+}
+.twitch_link {
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    height: 64px;
+    width: 64px;
+}
+.twitch_link_dop {
+    margin-left: 183px;
+}
+.twitch_link_img {
+    opacity: 0.5;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    height: 44px;
+    width: 40px;
+}
+.twitch_link_img:hover {
+    opacity: 1;
+}
+.yt_link {
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    height: 64px;
+    width: 64px;
+}
+.yt_link_dop {
+    margin-left: 244px;
+}
+.yt_link_img {
+    opacity: 0.5;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    height: 30px;
+    width: 42px;
+}
+.yt_link_img:hover {
+    opacity: 1;
+}
